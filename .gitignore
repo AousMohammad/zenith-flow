@@ -1,3 +1,15 @@
+apps/site
+# apps/docs
+packages/local
+# packages/tailwind-config
+# packages/zenith-flow-lib
+# packages/zenith-flow-tsconfig
+# packages/zenith-flow-ui
+
+
+
+
+
 # misc
 .DS_Store
 *.pem
@@ -15,8 +27,7 @@ coverage
 out/
 build
 .swc/
-apps/site
-packages/local
+
 packages/spree
 packages/swell
 packages/taskr-swc
