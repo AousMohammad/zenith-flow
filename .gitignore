@@ -1,5 +1,21 @@
+# misc
 .DS_Store
+*.pem
+
+# dependencies
 node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+
+# next.js
+.next/
+out/
+build
+.swc/
+
 .turbo
 *.log
 .next
