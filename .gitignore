@@ -1,14 +1,3 @@
-apps/site
-# apps/docs
-packages/local
-# packages/tailwind-config
-# packages/zenith-flow-lib
-# packages/zenith-flow-tsconfig
-# packages/zenith-flow-ui
-
-
-
-
 
 # misc
 .DS_Store
@@ -22,25 +11,9 @@ node_modules
 # testing
 coverage
 
-# next.js
-.next/
-out/
 build
 .swc/
 
-packages/spree
-packages/swell
-packages/taskr-swc
-packages/vendure
-packages/bigcommerce
-packages/commerce
-packages/commercejs
-packages/eslint-config-zenith
-packages/kibocommerce
-packages/ordercloud
-packages/saleor
-packages/sfcc
-packages/shopify
 .turbo
 *.log
 .next
