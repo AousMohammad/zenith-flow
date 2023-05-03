@@ -28,13 +28,16 @@
     "@zenith-flow/tsconfig": "workspace:0.0.0",
     "eslint": "^8.15.0",
     "eslint-config-zenith": "workspace:0.0.0",
-    "tailwind-config": "workspace:*",
     "postcss": "^8.4.23",
     "react": "^18.1.0",
+    "tailwind-config": "workspace:*",
     "tsup": "^5.10.1",
     "typescript": "^4.5.3"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "next": "^13.3.4"
   }
 }
